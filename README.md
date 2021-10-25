@@ -1,19 +1,18 @@
-# Documentation of Project 1 - SQL
+## Documentation of Project 1 - SQL
 
-## This repository contains data from my first project that I did during the WBS Coding School Data Science Bootcamp from 18th October 2021 to 11th February 2022
+### This repository contains data from my first project that I did during the WBS Coding School Data Science Bootcamp from 18th October 2021 to 11th February 2022
 
 
 Contents of the repository:
 
-* publications - Contains SQL scripts with basic queries on the database *publications* and the database dump itself
+* Publications - Contains SQL scripts with basic queries on the database *publications* and the database dump itself
+* Magist - Contains an SQL script with queries on the database *magist* and the database dump itself
 
-* magist - Contains an SQL script with queries on the database *magist* and the database dump itself
-
-## Publications
+### Publications
 
 I did two SQL challenges with questions about the *publications* database. The SQL scripts contain the tasks and the queries I wrote to get the answers.
 
-## Magist
+### Magist
 
 This *magist* database originally comes from [kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce). I had the opportunity to explore the database and prepare a presentation in 2 1/2 days. 
 
